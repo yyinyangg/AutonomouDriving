@@ -1,0 +1,10 @@
+controller:
+  ros__parameters:
+    update_frequency: 120.0
+    v_ki: 0.02
+    v_kp: 1.0
+    s_ki: 0.09
+    s_kp: 1.0
+    s_kd: 15
+    VMAX: 100.0
+    debug_print_speed: 0.0
